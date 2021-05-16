@@ -1,0 +1,56 @@
+body {
+  border: none;
+  background-image: url('https://images.all-free-download.com/images/graphiclarge/crazy_circles_free_seamless_pattern_119803.jpg');
+  background-color: whitesmoke;
+  text-align: center;
+}
+
+#canvasContainer{
+  text-align: center;
+  background-color: white;
+}
+
+canvas {
+  border: solid 5px white;
+  background-color: ghostwhite;
+}
+
+.btn{
+  width: 100px;
+  height: 50px;
+  font: 15px arial;
+  color: white;
+  background-color: gray;
+  border-radius: 10px;
+}
+
+#redBtn{
+  background-color: red;
+}
+
+#greenBtn{
+  background-color: #00ff40;
+}
+
+#blueBtn{
+  background-color: #0066ff;
+}
+
+#downloadBtn{
+  background-color: yellow;
+}
+
+h1 {
+  font-size: 50px;
+  color: 	#668cff;
+  border: solid 5px white;
+  background-color: white;
+}
+
+#adjustContainer{
+  background-color: white;
+}
+
+#testContainer{
+  background-color: white;
+}
